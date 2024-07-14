@@ -4,6 +4,7 @@
   </head>
   <body bgcolor ="yellow">
     <h1 style ="color:purple"; font size ="25"; font family ="verdana"; align ="center"><u>Costumbres de Ambato</u></h1>
+    <center><img src ="Ciudad de Ambato.jpg"; width ="970 px"; height ="250 px"></center>
     <p style ="color:black"; font size ="14"; font family ="arial"; align ="center">La principal celebración que posee el cantón es la <strong>“Fiesta de la Fruta y de las Flores”</strong>, que se lleva a cabo 
     <br>cada año 40 días antes de Semana Santa. Es denominada como una de las más hermosas celebraciones alrededor del país, siendo considerada como Patrimonio Cultural Intangible de la nación.
     <br>
